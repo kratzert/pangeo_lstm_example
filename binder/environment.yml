@@ -8,4 +8,4 @@ dependencies:
   - pandas
   - pytorch
   - tqdm
-  
+  - ipywidgets
