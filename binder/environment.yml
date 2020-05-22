@@ -6,6 +6,6 @@ dependencies:
   - matplotlib
   - numba
   - pandas
-  - torch
+  - pytorch
   - tqdm
   
